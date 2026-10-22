@@ -5,6 +5,7 @@ FN:Olga Zerva
 ORG:B2Sea Media Relations
 TITLE:Copywriter & Proofreader
 ROLE:B2B Corporate Communications | Digital Marketing | Press Office | Events
+TEL;TYPE=CELL,VOICE:+306972356935
 TEL;TYPE=WORK,VOICE:+302110138019
 EMAIL;TYPE=WORK,INTERNET:oz@b2sea.gr
 ADR;TYPE=WORK:;;132 Syngrou Avenue;Athens;Attica;117 45;Greece
@@ -12,6 +13,9 @@ LABEL;TYPE=WORK:132 Syngrou Avenue, 117 45 Athens, Greece
 URL:https://b2sea.gr
 URL;TYPE=card:https://charispappas.github.io/b2seacard-cp/oz/
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/b2sea
+X-SOCIALPROFILE;TYPE=whatsapp:https://wa.me/306972356935
+IMPP;X-SERVICE-TYPE=WhatsApp:whatsapp:+306972356935
+IMPP;X-SERVICE-TYPE=Viber:viber:+306972356935
 NOTE:B2Sea Media Relations - The Leading B2B Marketing Agency.\nDigital card: https://charispappas.github.io/b2seacard-cp/oz/
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUG
  BgYHCQ4JCQgICRINDQoOFRIWFhUSFBQXGiEcFxgfGRQUHScdHyIjJSUlFhwpLCgkKyEkJST/2w

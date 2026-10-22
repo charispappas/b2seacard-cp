@@ -5,6 +5,7 @@ FN:Niki Magkaniotou
 ORG:B2Sea Media Relations
 TITLE:Digital Marketing Specialist & Account Executive
 ROLE:B2B Corporate Communications | Digital Marketing | Press Office | Events
+TEL;TYPE=CELL,VOICE:+306987909271
 TEL;TYPE=WORK,VOICE:+302110138019
 EMAIL;TYPE=WORK,INTERNET:nm@b2sea.gr
 ADR;TYPE=WORK:;;132 Syngrou Avenue;Athens;Attica;117 45;Greece
@@ -12,6 +13,9 @@ LABEL;TYPE=WORK:132 Syngrou Avenue, 117 45 Athens, Greece
 URL:https://b2sea.gr
 URL;TYPE=card:https://charispappas.github.io/b2seacard-cp/nm/
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/niki-magkaniotou/
+X-SOCIALPROFILE;TYPE=whatsapp:https://wa.me/306987909271
+IMPP;X-SERVICE-TYPE=WhatsApp:whatsapp:+306987909271
+IMPP;X-SERVICE-TYPE=Viber:viber:+306987909271
 NOTE:B2Sea Media Relations - The Leading B2B Marketing Agency.\nDigital card: https://charispappas.github.io/b2seacard-cp/nm/
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUG
  BgYHCQ4JCQgICRINDQoOFRIWFhUSFBQXGiEcFxgfGRQUHScdHyIjJSUlFhwpLCgkKyEkJST/2w
